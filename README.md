@@ -1,9 +1,11 @@
-# Asteriods-Arcade-Game
 
 # **Asteroids Arcade Game 🚀**
 
 ## **Description**
 A **browser-based arcade-style game** inspired by the classic **Asteroids** game. Players control a spaceship, navigate through space, avoid collisions with asteroids, and shoot down obstacles to score points.
+
+Live Demo
+Play the game online: https://0f62e3a3-128f-4264-b315-5a775ba59b7a-00-1e3wasq2nzag9.picard.replit.dev/ 
 
 ## **Features**
 - **Player-controlled spaceship** with smooth movement and acceleration.
@@ -25,4 +27,9 @@ A **browser-based arcade-style game** inspired by the classic **Asteroids** game
 3. Avoid asteroid collisions to prevent health loss.
 4. **Earn extra lives** every 10,000 points.
 5. Game ends when all lives are lost.
+
+Acknowledgments
+
+Inspired by the classic Asteroids (1979) arcade game, developed using Phaser.js.
+
 
