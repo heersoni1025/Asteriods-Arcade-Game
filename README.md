@@ -1,1 +1,28 @@
 # Asteriods-Arcade-Game
+
+# **Asteroids Arcade Game 🚀**
+
+## **Description**
+A **browser-based arcade-style game** inspired by the classic **Asteroids** game. Players control a spaceship, navigate through space, avoid collisions with asteroids, and shoot down obstacles to score points.
+
+## **Features**
+- **Player-controlled spaceship** with smooth movement and acceleration.
+- **Shooting mechanics** with laser fire rate and collision detection.
+- **Asteroid spawning, movement, and destruction** with randomized speeds.
+- **Health system** with shields, power-ups, and extra lives.
+- **Dynamic scoring system** and game-over conditions.
+
+## **Technologies Used**
+- **JavaScript**
+- **Phaser.js (Game Framework)**
+- **HTML & CSS** for UI styling and layout.
+
+## **How to Play**
+1. Navigate the spaceship using **Arrow Keys**:
+   - **Left/Right**: Rotate spaceship.
+   - **Up**: Move forward.
+2. **Press SPACEBAR** to fire lasers at asteroids.
+3. Avoid asteroid collisions to prevent health loss.
+4. **Earn extra lives** every 10,000 points.
+5. Game ends when all lives are lost.
+
