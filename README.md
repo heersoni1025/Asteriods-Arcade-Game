@@ -28,6 +28,8 @@ A **browser-based arcade-style game** inspired by the classic **Asteroids** game
 5. Game ends when all lives are lost.
 
 Screenshots from the game:
+
+
 <img width="797" alt="Screenshot 2025-05-02 at 8 37 14 PM" src="https://github.com/user-attachments/assets/74edbe0a-334f-4ec6-9dd3-f35595cf0104" />
 
 <img width="800" alt="Screenshot 2025-05-02 at 8 37 49 PM" src="https://github.com/user-attachments/assets/3e322bc7-438b-42f3-94e4-e603cc3391fd" />
