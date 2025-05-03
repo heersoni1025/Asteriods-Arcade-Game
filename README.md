@@ -11,6 +11,7 @@ A **browser-based arcade-style game** inspired by the classic **Asteroids** game
 - **Asteroid spawning, movement, and destruction** with randomized speeds.
 - **Health system** with shields, power-ups, and extra lives.
 - **Dynamic scoring system** and game-over conditions.
+- **Sound System** Cool sound effects for shooting, explosion, space background sound, etc.
 
 ## **Technologies Used**
 - **JavaScript**
