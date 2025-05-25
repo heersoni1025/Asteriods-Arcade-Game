@@ -43,5 +43,6 @@ Screenshots from the game:
 Acknowledgments
 
 Inspired by the classic Asteroids (1979) arcade game, developed using Phaser.js.
+This project was not made for a class/assignment. 
 
 
