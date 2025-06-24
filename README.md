@@ -5,6 +5,8 @@
 A **browser-based arcade-style game** inspired by the classic **Asteroids** game. Players control a spaceship, navigate through space, avoid collisions with asteroids, and shoot down obstacles to score points.
 
 
+You can play the game here: https://heersoni1025.github.io/Asteriods-Arcade-Game/ 
+
 ## **Features**
 - **Player-controlled spaceship** with smooth movement and acceleration.
 - **Shooting mechanics** with laser fire rate and collision detection.
