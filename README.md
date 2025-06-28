@@ -29,6 +29,8 @@ You can play the game here: https://heersoni1025.github.io/Asteriods-Arcade-Game
 4. **Earn extra lives** every 10,000 points.
 5. Game ends when all lives are lost.
 
+Note: To start the game, press the spacebar on your keyboard (it is the fire key).
+
 Screenshots from the game:
 
 
