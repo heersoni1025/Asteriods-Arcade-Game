@@ -199,7 +199,7 @@ gameTitle = game.add.image( game.world.centerX, game.world.centerY-100 , 'title'
 gameTitle.anchor.set(0.5, 0.5);
 gameTitle.scale.setTo(.75, .75);
 
-startText = game.add.text(game.world.centerX, game.world.centerY + 100, 'Press Spacebar to Start Mission', {font: 'Arial', fontSize: '30px', fontStyle:'bold', fill:'#00ff00'});
+startText = game.add.text(game.world.centerX, game.world.centerY + 100, 'Press Fire to Start Mission', {font: 'Arial', fontSize: '30px', fontStyle:'bold', fill:'#00ff00'});
 startText.anchor.set(0.5,0.5);
 
 gameOverText = game.add.text(game.world.centerX, game.world.centerY - 100, 'GAME OVER', {font: 'Arial', fontSize: '48px', fontStyle:'bold', fill:'#ff0000'});
