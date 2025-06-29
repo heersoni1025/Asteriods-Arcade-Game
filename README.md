@@ -36,7 +36,6 @@ Screenshots from the game:
 <img width="703" alt="Screenshot 2025-06-28 at 8 12 39 PM" src="https://github.com/user-attachments/assets/18c235fb-2e28-4925-978e-75515dc2f56c" />
 
 
-<img width="987" alt="Screenshot 2025-06-28 at 8 12 08 PM" src="https://github.com/user-attachments/assets/706ef230-9c6b-4944-b463-8f7f53ada433" />
 
 
 <img width="800" alt="Screenshot 2025-05-02 at 8 37 49 PM" src="https://github.com/user-attachments/assets/3e322bc7-438b-42f3-94e4-e603cc3391fd" />
